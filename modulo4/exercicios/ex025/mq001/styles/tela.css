@@ -22,8 +22,16 @@ menu ul {
 }
 
 menu li {
+    background-color: rgb(75, 75, 75);
     display: inline-block;
+    color: white;
     padding: 10px;
+}
+
+article {
+    width: 600px;
+    display: block;
+    margin: auto;
 }
 
 article::after {
